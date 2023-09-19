@@ -1,0 +1,52 @@
+PROCESS-NAME,storedownloadd // Mac App Store
+PROCESS-NAME,News
+USER-AGENT,com.apple.appstored* // iOS App Store
+USER-AGENT,App%20Store*
+USER-AGENT,MacAppStore*
+USER-AGENT,%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0*
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,locationd*
+USER-AGENT,geod*
+USER-AGENT,Maps*
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gs-loc.apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-client.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,play-cdn.itunes-apple.com.akadns.net
+DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN,xp.apple.com // iOS & macOS System Upgrade
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
+DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN,gs.apple.com
+DOMAIN-SUFFIX,osxapps.itunes.apple.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,video.itunes.apple.com
+DOMAIN-KEYWORD,content.icloud
+DOMAIN,reserve-prime.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,crashlytics.com
+USER-AGENT,*AssistantServices*
