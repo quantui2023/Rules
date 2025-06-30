@@ -1,0 +1,11 @@
+# Crossover
+PROCESS-NAME,wineserver
+
+# Battle.net
+PROCESS-NAME,Battle.net.exe
+
+# Mac App Store
+DOMAIN-SUFFIX,osxapps.itunes.apple.com
+
+# Steam
+DOMAIN-SUFFIX,steamcontent.com
