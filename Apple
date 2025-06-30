@@ -41,7 +41,6 @@ DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN,gs.apple.com
-DOMAIN-SUFFIX,osxapps.itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,video.itunes.apple.com
 DOMAIN-KEYWORD,content.icloud
@@ -50,3 +49,17 @@ DOMAIN,guzzoni.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,crashlytics.com
 USER-AGENT,*AssistantServices*
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,organicfruitapps.com
+DOMAIN-SUFFIX,apple-mapkit.com
+PROCESS-NAME,trustd
+PROCESS-NAME,netbiosd
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,apsd
+PROCESS-NAME,fmfd
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget
