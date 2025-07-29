@@ -1,8 +1,0 @@
-# Crossover
-PROCESS-NAME,wineserver
-
-# Battle.net
-PROCESS-NAME,Battle.net.exe
-
-# Steam
-DOMAIN-SUFFIX,steamcontent.com
